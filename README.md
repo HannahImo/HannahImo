@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hannah, an enthusiastic nigerian that loves naija jollof rice, and surfs the internet whenever.
+- 👋 Hi, I’m @Hannah, an enthusiastic nigerian that likes to surfs the internet whenever.
 - My interest and hobbies include travelling, photography, volunteering, honing my skills and reading.
-- 👀 I’m interested in Web development and its integration in every sector possible.
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on different projects. Do not hesitate to send me a message.
 - P.S: Looking forawrd to make your acquaintance.
