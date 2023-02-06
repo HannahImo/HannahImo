@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Hannah, an enthusiastic nigerian that likes to surfs the internet whenever.
-- My interest and hobbies include travelling, photography, volunteering, honing my skills and reading.
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on different projects. Do not hesitate to send me a message.
-- P.S: Looking forawrd to make your acquaintance.
+- 👋 Hi, I’m @Hannah.
+- 👀  
+- 🌱  
+- 💞️  
+- P.S:  
 
 <!---
 HannahImo/HannahImo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
