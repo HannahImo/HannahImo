@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hannah.
-- 👀  
-- 🌱  
-- 💞️  
-- P.S:  
+- A frontend web3 developer
+- 🌱 Learning is a continuous endeavor 
+- 💞️ Loves volunteering and networking
+- P.S: Reach me on Instagram at @Hannahimo
 
 <!---
 HannahImo/HannahImo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
